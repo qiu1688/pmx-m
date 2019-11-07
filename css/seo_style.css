@@ -1,0 +1,66 @@
+@charset "utf-8";
+.mar16{ margin-top:1em !important;}
+.main_tit .font15{ font-size:15px; margin: 0.5em 0em;}
+.ptxtleft{text-align:left !important;}
+.numb{font-size: 12px; display: inline-block; border: 1px solid #ddd;padding: 0.2em;float: left; margin-top:10px; margin-left:5px;}
+
+/*内容区*/
+.main{}
+.mainbox{ padding:1em;}
+.main1{position: relative; background:#fff;}
+.main1_img{ margin-top:40px;}
+
+.main_tit{ text-align:center; margin:1.5em 0em;}	
+.main_tit p{font-size: 27px;}
+.main_tit span{ margin:0.5em 0em; display:block; color:#fff;}
+
+
+.textleft{ text-align:left;}
+.textright{ text-align:right;}
+.main1,.main2,.main3,.main4,.main5,.main6,.main7,.main8,.main9,.main10,.main11,.main12,.main13,.main14,.main15,.main16{ overflow:hidden; position:relative;}
+.main2{ background:#fe7d29; color:#fff;}
+.main2bg{ background: url(../images/main2bg.png) top right no-repeat #fe7d29;height: 350px;background-size: contain;}
+.main7{ background:#db6e1e; color:#fff;}
+.main3{color:#fff; background-size: contain; background:#000;}
+
+
+/*SAAS模式*/
+.main5{color: #fff;width: 100%; background:#000;}
+.features { overflow: hidden; margin: auto; width: 100%; margin:1em 0em;}
+.features dl {width:33%; float: left;border-right: 1px solid #616161;}
+.features dt {font-size: 14px;}
+.features dt span {margin:0em; font-size: 30px; display: inline-block;}
+.features dd { font-size: 14px;}
+
+/*高权重网站资源*/
+.main6 {color:#fff;background: #122f7e;}
+.main6 .main1_img{top: 50%;position: absolute; left:0px;}
+.main7_tit{position:absolute; top:0px;}
+.main8{background:#EFEFEF;}
+.main8 .main1_img{top: 38%;position: absolute; left:0px;}
+.main9{color:#fff; background:#271164;}
+.main9 .main1_img{top:40%;position: absolute; left:0px;}
+.main9_tit{position:absolute; top:0px;}
+.main3_tit{position:absolute; top:0px; width:100%;}
+.main1_tit{position:absolute; width:100%; bottom:30px;}
+
+
+.main10{ background: #000; color: #fff;}	
+.main10bg{ background: url(../images/main10bg.jpg) top right no-repeat #000; height: 350px; background-size: contain; }
+.main11{ background: #0a2452;}	
+
+.main12{ background: #be2829; color:#fff; height: 480px;}	
+.main12bg{background-size: contain; }
+.main13{color:#fff; background:#0171C3;}	
+.main14{color:#fff;}	
+.main14_txt { position:absolute; top:0px; width: 100%; }
+.main13_txt { position:absolute; top:0px;}
+.main6_tit{ position:absolute; top:0px;}
+.main5_tit{ position:absolute; top:0px;}
+.main16{ background:#fff; color:#333;}
+.main16bg { background: url(../images/main16bg.png)top right no-repeat;height: 350px;background-size: contain;}
+.main22{color: #fff;background-size: contain;background: #af2525;overflow: hidden;}
+
+
+.main17bg {background: url(../images/main17bg.jpg) top right no-repeat;height: 350px; background-size: contain;}
+.main18 { background:#f1f1f1; background-size: contain;	}
